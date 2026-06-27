@@ -32,5 +32,10 @@ Not(!)                             Bitwise Not            Complement
 -Meaning: Check a Bit is Set or clear
 -Syntax: num = num & (1 << Pos);
 
+## Difference Between the Logical Operators and Bitwise operator
+- Logical Operators Gives Boolean Values as a Answer
+- But Bitwise Operator Gives 0/1 as a Answer -- Works on Bits 
 
-
+example
+- Bitwise  7&2=  0111 & 0010 =0010
+-Logical   7&&2= Both are non zero values so True (1)
