@@ -1,0 +1,26 @@
+# Pointers 
+- what Is Pointers?
+- Pointer is used to Store the Address  of the Another variale
+- it is type of Derived Data Types
+
+## Why we need the Pointer?
+- To Access Memory Directly
+- To Avoid Copying Large Data
+- Dynamic Memory Allocation
+
+## Where we use Pointer
+- Arrays and Strings
+- Dynamic Memory Allocation
+
+## Syntax for Pointer
+Declaration of pointer : 
+Int a=10;
+int *p;
+p=&a;
+
+## Types of Pointer -
+- Null Pointer
+- Wild Pointer
+- Dangling Pointer
+- Void Pointer 
+
